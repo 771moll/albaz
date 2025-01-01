@@ -15,7 +15,7 @@ h1{
     padding-bottom: 20px;
 }
 header{
-    margin-bottom: 90px;
+    margin-bottom: 80px;
     background-color:  rgb(52, 187, 197);
     color: #ffffff;
     border-radius: 0 0 50px 50px;
@@ -33,11 +33,12 @@ header{
     display: inline-block;
     margin-top: -20px;
     font-size: large;
-    margin-battom:10px;
+    background-color:  rgb(52, 187, 197);
+    border-radius: 10px;
 }
 
 .ul_head li a:hover{
-    color: #10c44c;
+    color: #0f110f;
     border-bottom: 4px solid rgb(248, 248, 248);
     font-size: 18px;
 }
